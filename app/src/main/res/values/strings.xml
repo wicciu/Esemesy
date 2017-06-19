@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Esemesy</string>
+    <string name="putNumber">Podaj odbiorcę:</string>
+    <string name="putText">Podaj treść:</string>
+    <string name="addPhoneNumber">Podaj nr telefonu:</string>
+    <string name="addName">Podaj nazwę</string>
+    <string name="appContacts">Książka Adresowa</string>
+    <string name="addressBook">Książka Adresowa</string>
+    <string name="add">Dodaj</string>
+    <string name="fillBoth">Uzupełnij oba pola</string>
+    <string name="smsError">Błąd podczas wysyłania SMSa</string>
+    <string name="appConversation">Konwersacja</string>
+    <string name="appSender">Wyślij SMS</string>
+    <string name="deleteContactConfirm">Czy na pewno chcesz usunąć kontakt?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="addContact">Dodaj kontakt</string>
+    <string name="me">Ja</string>
+</resources>
